@@ -232,6 +232,7 @@ Rent price is highly related with area, bedroom number, bathroom  number and sub
 
 In this report, we try some new type of plots, such as map plot and 3d scatter plot. However, due to the limitation of data, we only analysis several variables.
 
+Finally, our github link is https://github.com/chenxishi/final_project_graphic
 
 
 
